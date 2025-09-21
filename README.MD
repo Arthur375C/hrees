@@ -18,10 +18,10 @@ Hrees é uma pequena biblioteca de física 2D em JavaScript para simulações si
 
 ## Instalação
 
-Basta incluir o arquivo `Hrees.js` no seu projeto e criar uma instância da classe:
+Basta incluir o arquivo `hrees.min.js` no seu projeto e criar uma instância da classe:
 
 ```html
-<script src="Hrees.js"></script>
+<script src="hree.min.js"></script>
 <script>
   const canvas = document.getElementById('SeuCanvaAqui');
   const ctx = canvas.getContext('2d');
@@ -71,3 +71,4 @@ GameLoop();
 
 
 </script>
+
